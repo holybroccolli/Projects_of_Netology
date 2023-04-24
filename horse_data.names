@@ -223,9 +223,9 @@
                1 = Yes
                2 = No
 
- 25: type of lesion
- 26: type of lesion
- 27: type of lesion
+ 25: type of lesion_1
+ 26: type of lesion_2
+ 27: type of lesion_3
           - first number is site of lesion
                1 = gastric
                2 = sm intestine
